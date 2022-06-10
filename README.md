@@ -1,1 +1,1 @@
-# Prot-g-Plugin
+# Protege Plugin
